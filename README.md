@@ -1,2 +1,2 @@
 # figures1
-taller1
+Nicolle Alexandra Montaño Cifuentes
