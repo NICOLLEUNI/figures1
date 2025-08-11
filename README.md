@@ -1,3 +1,3 @@
 # figures1
 Nicolle Alexandra Montaño Cifuentes
-Anthony Jesuha Ortega
+Anthony Jesuha Ortega Garzon
