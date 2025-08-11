@@ -2,11 +2,11 @@
 package co.unicauca.figures.domain;
 
 
-public class Triange implements Figure {
+public class Triangle implements Figure {
     private double base;
     private double height;
 
-    public Triange(double base, double height) {
+    public Triangle(double base, double height) {
         this.base = base;
         this.height = height;
     }

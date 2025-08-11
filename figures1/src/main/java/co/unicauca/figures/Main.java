@@ -15,7 +15,7 @@ public class Main {
         Figure fig2 = new Circle(2.3);
         Figure fig3 = new Square(10);
         Figure fig4 = new Square(2.1);
-        Figure fig5 = new Triange(2,5);
+        Figure fig5 = new Triangle(2,5);
         //Arreglo polimorfico
         List<Figure> figures = new ArrayList<>() ;
         figures.add(fig1);
